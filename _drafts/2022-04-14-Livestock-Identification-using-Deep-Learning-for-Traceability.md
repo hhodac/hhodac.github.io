@@ -4,7 +4,8 @@ collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This study aimed to develop a face recognition system for dairy farm cows using advanced deep learning models and computer vision techniques. This approach is non-invasive and potentially applicable to other farm animals of importance for identification and welfare assessment.'
 date: 2022-04-14
-venue: 'Transactions on Image Processing'
+# venue: 'Transactions on Image Processing'
+journal: 'Transactions on Image Processing'
 note: 'This paper is currently under review'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
