@@ -1,7 +1,7 @@
 ---
 title: "Animal biometric assessment using non-invasive computer vision and machine learning are good predictors of dairy cows age and welfare: The future of automated veterinary support systems"
 collection: publications
-permalink: 2022-09-16-Animal-biometric-assessment-using-non-invasive-computer-vision-and-machine-learning
+# permalink: 2022-09-16-Animal-biometric-assessment-using-non-invasive-computer-vision-and-machine-learning
 excerpt: "Digitally extracted biometrics from visible videos of farm animals could be used to automatically assess animal welfare, contributing to the future of automated veterinary support systems. This study proposed using non-invasive video acquisition and biometric analysis of dairy cows in a robotic dairy farm (RDF) located at the Dookie campus, The University of Melbourne, Australia. Data extracted from dairy cows were used to develop two machine learning models: a biometrics regression model (Model 1) targeting (i) somatic cell count, (ii) weight, (iii) rumination, and (iv) feed intake and a classification model (Model 2) mapping features from dairy cow's face to predict animal age. Results showed that Model 1 achieved a high correlation coefficient (R = 0.96), slope (b = 0.96), and performance, and Model 2 had high accuracy (98%), low error (2%), and high performance without signs of under or overfitting. Models developed in this study can be used in parallel with other models to assess milk productivity, quality traits, and welfare for RDF and conventional dairy farms."
 date: '2022-09-16'
 venue: 'Journal of Agriculture and Food Research'
